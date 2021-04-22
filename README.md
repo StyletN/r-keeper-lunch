@@ -1,4 +1,4 @@
 # r-keeper-lunch
-It is a test for r-keeper  
+It is a test for r-keeper.  
 Ребята, это простое тестовое задание. Я первый раз на гитхабе.  
 Посмотреть, что как тут выглядит. )
